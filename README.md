@@ -7,6 +7,6 @@
 
 - This repository contains:
   - `CodeBook.md` a code book that describes the data and the any transformations done on it.
-  - `run_analysis.R` a R script file that performs the data cleaning and tyding processes as required in the course project’s definition
+  - `run_analysis.R` a R script file that performs the data cleaning and tyding processes as required in the course project’s definition.
   - `Final_Data.txt` is the exported final data after going through all the cleaning steps described above.
 
